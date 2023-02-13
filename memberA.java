@@ -7,4 +7,5 @@ public class memberA {
         System.out.println(parameter);
     }
     // blbalblajblajbla comment
+    // blalblabja
 }
