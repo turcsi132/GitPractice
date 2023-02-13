@@ -1,5 +1,5 @@
 public class memberA {
     public static void greet (){
-        System.out.println("Eszter");
+        System.out.println("Greetings");
     }
 }
