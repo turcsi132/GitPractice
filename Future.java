@@ -1,6 +1,7 @@
 
 
 public class Future {
-    System.out.println ("Libra");
+    String string = "Libra";
+    System.out.println (string);
 
 }
