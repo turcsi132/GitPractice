@@ -4,8 +4,8 @@ public class Cheer {
         cheer();
     }
     public static String cheer(){
-        String teamName = "Dojo6 Team";
-        System.out.println(teamName);
-        return teamName;
+        String anotherTeamName = "Dojo6 Team";  //modified this parameter name, because i created it earlier unfortunately...
+        System.out.println(anotherTeamName);
+        return anotherTeamName;
     }
 }
