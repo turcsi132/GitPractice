@@ -1,7 +1,7 @@
 
 
 public class Future {
-    String string = "Libra";
+    String string = "Snake";
     System.out.println (string);
 
 }
