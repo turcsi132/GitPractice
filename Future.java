@@ -1,13 +1,14 @@
 
 
 public class Future {
-
-    String string = "Snake";
-    System.out.println (string);
+    
+    
 
     public static void printTheFuture(){
          String string = "Libra";
-        System.out.println (string); 
+         String string2 = "Snake";
+   
+        System.out.println (string+string2); 
     }
 
 
