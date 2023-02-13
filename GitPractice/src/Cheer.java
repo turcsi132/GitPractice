@@ -7,7 +7,7 @@ public class Cheer {
         String anotherTeamName = "Dojo6 Team";  //modified this parameter name, because i created it earlier unfortunately...
         String language = "java 4 Ever";
         System.out.println(anotherTeamName);
-        System.out.println(language);
+        System.out.println("Cheer for the "+language);
         return anotherTeamName;
     }
 }
